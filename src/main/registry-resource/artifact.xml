@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><artifacts>
+    <artifact name="registry" groupId="com.example.newnew.resource" version="1.0.0" type="registry/resource" serverRole="EnterpriseIntegrator">
+        <item>
+            <file>registry.dmc</file>
+            <path>/_system/governance/datamapper</path>
+            <mediaType>application/datamapper</mediaType>
+        </item>
+    </artifact>
+</artifacts>

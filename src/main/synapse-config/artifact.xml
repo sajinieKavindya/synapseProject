@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><artifacts>
+    <artifact name="newAPI" groupId="com.example.newnew.api" version="1.0.0" type="synapse/api" serverRole="EnterpriseServiceBus">
+        <file>api/newAPI.xml</file>
+    </artifact>
+    <artifact name="proxy" groupId="com.example.newnew.proxy-service" version="1.0.0" type="synapse/proxy-service" serverRole="EnterpriseServiceBus">
+        <file>proxy-services/proxy.xml</file>
+    </artifact>
+    <artifact name="msg" groupId="com.example.newnew.message-processors" version="1.0.0" type="synapse/message-processors" serverRole="EnterpriseServiceBus">
+        <file>message-processors/msg.xml</file>
+    </artifact>
+</artifacts>
